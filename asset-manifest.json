@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ais-visualizer/static/css/main.f2e3b841.chunk.css",
+    "main.js": "/ais-visualizer/static/js/main.5c4a7d77.chunk.js",
+    "main.js.map": "/ais-visualizer/static/js/main.5c4a7d77.chunk.js.map",
+    "runtime-main.js": "/ais-visualizer/static/js/runtime-main.aad446a8.js",
+    "runtime-main.js.map": "/ais-visualizer/static/js/runtime-main.aad446a8.js.map",
+    "static/js/2.8e52ec1c.chunk.js": "/ais-visualizer/static/js/2.8e52ec1c.chunk.js",
+    "static/js/2.8e52ec1c.chunk.js.map": "/ais-visualizer/static/js/2.8e52ec1c.chunk.js.map",
+    "index.html": "/ais-visualizer/index.html",
+    "precache-manifest.d4f2c077528a0dd9d8ccec4f08b4ec2f.js": "/ais-visualizer/precache-manifest.d4f2c077528a0dd9d8ccec4f08b4ec2f.js",
+    "service-worker.js": "/ais-visualizer/service-worker.js",
+    "static/css/main.f2e3b841.chunk.css.map": "/ais-visualizer/static/css/main.f2e3b841.chunk.css.map",
+    "static/js/2.8e52ec1c.chunk.js.LICENSE.txt": "/ais-visualizer/static/js/2.8e52ec1c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ais-visualizer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aad446a8.js",
+    "static/js/2.8e52ec1c.chunk.js",
+    "static/css/main.f2e3b841.chunk.css",
+    "static/js/main.5c4a7d77.chunk.js"
+  ]
+}
