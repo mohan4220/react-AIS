@@ -13,9 +13,9 @@ class Routes extends Component {
         <Router>
           <Switch>
             <Route exact path="/" component={Home} />
-            <Route path="/react-ais" component={Home} />
-            <Route path="/about" component={About} />
-            <ProtectedRoute path= {"/ais-data"} component ={Ais}/>
+            <Route exact path="/react-ais" component={Home} />
+            <Route path="/react-ais/about" component={About} />
+            <ProtectedRoute path= {"/react-ais/ais-data"} component ={Ais}/>
             <Route path ="*" component = {NotFound}/>
           </Switch>
         </Router>

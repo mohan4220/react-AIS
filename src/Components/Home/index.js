@@ -11,7 +11,7 @@ class Home extends Component {
         <Button
           variant="contained"
           onClick={() => {
-            this.props.history.push('/about')
+            this.props.history.push('/react-ais/about')
             return <NavLink to="/about"></NavLink>;
 
           }}
